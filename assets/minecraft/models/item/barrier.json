@@ -15,7 +15,8 @@
     {"predicate": {"custom_model_data":1735}, "model": "item/gui/wand_crafter_expanded"},
     {"predicate": {"custom_model_data":12414}, "model": "item/entities/custom_spell_orb"},
     {"predicate": {"custom_model_data":5842001}, "model": "item/gui/none"},
-    {"predicate": {"custom_model_data":5842002}, "model": "item/gui/wand_crafter"}
+    {"predicate": {"custom_model_data":5842002}, "model": "item/gui/wand_crafter"},
+    {"predicate": {"custom_model_data":5842003}, "model": "item/gui/wand_crafter_wand"}
 
     ]
 }
