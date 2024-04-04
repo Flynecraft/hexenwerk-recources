@@ -157,7 +157,7 @@
         },
         {
             "type": "bitmap",
-            "file": "minecraft:item/magical_book.png",
+            "file": "minecraft:item/spell_book.png",
             "ascent": 12,
             "height": 16,
             "chars": ["\uE101"]

@@ -4,7 +4,6 @@
     "layer0": "item/warped_fungus_on_a_stick"
     },
     "overrides": [
-    {"predicate": {"custom_model_data":1725}, "model": "item/magical_wand"},
     {"predicate": {"custom_model_data":1726}, "model": "item/attuned_wands/slots"},
     {"predicate": {"custom_model_data":1727}, "model": "item/attuned_wands/maximum"},
     {"predicate": {"custom_model_data":1728}, "model": "item/attuned_wands/range"},
@@ -13,6 +12,7 @@
     {"predicate": {"custom_model_data":1825}, "model": "item/dev_stone_deactivated"},
     {"predicate": {"custom_model_data":1826}, "model": "item/dev_stone_debug"},
     {"predicate": {"custom_model_data":1827}, "model": "item/dev_stone_dev"},
-    {"predicate": {"custom_model_data":1925}, "model": "item/scrolls/generic"}
+    {"predicate": {"custom_model_data":1925}, "model": "item/scrolls/generic"},
+    {"predicate": {"custom_model_data":5842001}, "model": "item/magical_wand"}
   ]
 }

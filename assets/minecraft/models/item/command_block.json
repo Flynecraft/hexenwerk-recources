@@ -4,6 +4,6 @@
     "layer0": "minecraft:block/command_block"
     },
     "overrides": [
-    {"predicate": {"custom_model_data":1725}, "model": "item/magical_shard"}
+    {"predicate": {"custom_model_data":5842001}, "model": "item/magical_berries"}
   ]
 }
